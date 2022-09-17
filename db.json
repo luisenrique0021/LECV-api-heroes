@@ -9,7 +9,7 @@
         "descripcion": "Spider-Man, traducido en ocasiones como El Hombre Araña, es un personaje creado por los estadounidenses Stan Lee y Steve Ditko,?? e introducido en el cámic Amazing Fantasy n.á 15, publicado por Marvel Comics en agosto de 1962.",
         "editorial": "Marvel Comics",
         "tipo": "heroes-marvel",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/MARVEL/SPIDERMAN.webp"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/MARVEL%2FSPIDERMAN.webp?alt=media&token=d986a051-0a29-4bf6-a076-0a7325d9df4a"
       },
       {
         "id": "los-4-fantasticos",
@@ -20,7 +20,7 @@
         "descripcion": "Los Cuatro Fantásticos se forman despuás de que cuatro astronautas civiles están expuestos a los rayos cásmicos durante un vuelo de prueba no autorizado en el espacio exterior en un cohete experimental diseáado por el Dr. Reed Richards.",
         "editorial": "Marvel Comics",
         "tipo": "heroes-marvel",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/MARVEL/FANTASTIC FOUR.webp"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/MARVEL%2FFANTASTIC%20FOUR.webp?alt=media&token=2cba659e-527a-422a-a0ab-617f25dded76"
       },
       {
         "id": "capitan-america",
@@ -31,7 +31,7 @@
         "descripcion": "El Capitán Amárica fue diseáado como un supersoldado patriota que luchaba frecuentemente contra las potencias del Eje en la Segunda Guerra Mundial, y fue el personaje más popular de Timely Comics durante el peráodo de guerra.",
         "editorial": "Marvel Comics",
         "tipo": "heroes-marvel",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/MARVEL/CAPITAN AMERICA.jpg"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/MARVEL%2FCAPITAN%20AMERICA.jpg?alt=media&token=b3002590-79a8-4825-87a3-de6cb94844fe"
       },
       {
         "id": "ironman",
@@ -42,7 +42,7 @@
         "descripcion": "Iron Man (conocido en espaáol como el Hombre de Hierro) es un superhároe que aparece en los cámics estadounidenses publicados por Marvel Comics. El personaje fue co creado por el escritor y editor Stan Lee y el guionista Larry Lieber. Los artistas Don Heck y Jack Kirby fueron los encargados de su diseáo.",
         "editorial": "Marvel Comics",
         "tipo": "heroes-marvel",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/MARVEL/IRON MAN.webp"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/MARVEL%2FIRON%20MAN.webp?alt=media&token=4d0a2545-82c4-45b7-8af4-35862ebd0d46"
       },
       {
         "id": "la-patrulla-x",
@@ -53,7 +53,7 @@
         "descripcion": "Todo comenzá en 1963, cuando Marvel publicá The X-Men, de Stan Lee y Jack Kirby. La mayoráa de los miembros originales aparecieron en el primer námero, pero descubrimos cámo se unieron al equipo de Xavier a travás de flashbacks en los aáos venideros. Cáclope, Hombre de Hielo, ángel y Bestia fueron los primeros estudiantes. Estos cuatro, junto a Jean Grey átambián conocida como Chica Maravillosaá, fueron el nácleo del equipo durante los siguientes doce aáos,",
         "editorial": "Marvel Comics",
         "tipo": "heroes-marvel",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/MARVEL/PATRULLA X.jpg"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/MARVEL%2FPATRULLA%20X.jpg?alt=media&token=3ff5e30b-4a01-4d75-817f-fc2b47ffdf02"
       },
       {
         "id": "hulk",
@@ -64,7 +64,7 @@
         "descripcion": "El hijo de un padre abusivo, Bruce Banner creciá támido e introvertido, pero un genio cientáfico. De joven, gracias a su destacado trabajo en el campo de la fásica nuclear, atrajo la atencián del Ejárcito de los Estados Unidos que queráan adaptar sus teoráas para el armamento.",
         "editorial": "Marvel Comics",
         "tipo": "heroes-marvel",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/MARVEL/HULK.jpg"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/MARVEL%2FHULK.jpg?alt=media&token=86bd74be-8619-4368-ad2e-71abba25b7e1"
       },
       {
         "id": "pantera-negra",
@@ -75,7 +75,7 @@
         "descripcion": "Es el primer superhároe de tez negra de la historia de Marvel y se debe destacar que el personaje fue creado con anterioridad al Partido Pantera Negra, el cual fue fundado en octubre del mismo aáo. Es el rey y protector de la ficticia nacián africana de Wakanda.",
         "editorial": "Marvel Comics",
         "tipo": "heroes-marvel",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/MARVEL/BLACK PANTHER.jpg"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/MARVEL%2FBLACK%20PANTHER.jpg?alt=media&token=b795c825-c000-4b70-adcb-3028f0e6cae7"
       },
       {
         "id": "daredevil",
@@ -86,7 +86,7 @@
         "descripcion": "Cuando era niáo, Matt Murdock perdiá la vista y ganá sentidos sobrehumanos en un accidente que le enseáá a vivir sin miedo. Luego pasá a estudiar derecho, lo que lo llevá a una vida de lucha contra el crimen en Nueva York; como abogado y como vigilante Daredevil.",
         "editorial": "Marvel Comics",
         "tipo": "heroes-marvel",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/MARVEL/DAREDEVIL.jpg"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/MARVEL%2FDAREDEVIL.jpg?alt=media&token=dbcadca3-dc3e-4a12-9729-74ac694891b9"
       },
       {
         "id": "thor",
@@ -97,7 +97,7 @@
         "descripcion": "Thor Odinson es el Dios del Trueno, anterior Rey de Nuevo Asgard y miembro fundador de los Vengadores. Cuando su conducta irresponsable amenazá a los Asgardianos a entrar en otra guerra con los Gigantes de Hielo, fue despojado de su poder y desterrado en la Tierra por su padre, Odán.",
         "editorial": "Marvel Comics",
         "tipo": "heroes-marvel",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/MARVEL/THOR.jpg"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/MARVEL%2FTHOR.jpg?alt=media&token=a78d30b9-cb21-478a-a0ae-68840cfdc094"
       },
       {
         "id": "viuda-negra",
@@ -108,7 +108,7 @@
         "descripcion": "Natasha naciá en Stalingrado (ahora Volgogrado), Rusia. La primera y más conocida Viuda Negra, es una agente rusa entrenada como espáa, artista marcial y francotiradora, y equipada con un arsenal de armas de alta tecnologáa, que incluye un par de armas energáticas montadas en la muáeca y apodada \"Piquete de la Viuda\".",
         "editorial": "Marvel Comics",
         "tipo": "heroes-marvel",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/MARVEL/BLACK WIDOW.webp"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/MARVEL%2FBLACK%20WIDOW.webp?alt=media&token=a5f3f411-81e0-4713-8b5a-89875004ad16"
       },
       {
         "id": "capitana-marvel",
@@ -119,7 +119,7 @@
         "descripcion": "La Capitana Carol Danvers es una ex piloto de la Fuerza Aárea de los Estados Unidos que, al destruir el Motor de velocidad de la luz fabricado por su mentora Mar-Vell, fue expuesta a la energáa del Teseracto, obteniendo poderes cásmicos y fue raptada para servir al Imperio Kree.",
         "editorial": "Marvel Comics",
         "tipo": "heroes-marvel",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/MARVEL/CAPTAIN MARVEL.webp"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/MARVEL%2FCAPTAIN%20MARVEL.webp?alt=media&token=47e25bce-63e8-4fc4-b32a-71a0c8adb2e2"
       },
       {
         "id": "el-castigador",
@@ -130,7 +130,7 @@
         "descripcion": "Francis \"Frank\" Castle, conocido como El Castigador (The Punisher en inglás), es un personaje ficticio y antihároe que aparece en los cámics estadounidenses publicados por Marvel Comics. El personaje fue creado por el escritor Gerry Conway y los artistas John Romita Sr.",
         "editorial": "Marvel Comics",
         "tipo": "heroes-marvel",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/MARVEL/EL CASTIGADOR.jpg"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/MARVEL%2FEL%20CASTIGADOR.jpg?alt=media&token=a1161754-af61-4bdb-9bfe-821195d5792b"
       },
       {
         "id": "antman-wasp",
@@ -141,7 +141,7 @@
         "descripcion": "Creado por David Michelinie y John Byrne, Scott Lang apareciá por primera vez en The Avengers # 181 (marzo de 1979) y en Marvel Premiere # 47 (abril de 1979) como el segundo personaje de superhároes en usar el nombre de Ant-Man en el Universo Marvel. Es un ladrán reformado y un experto en electránica.",
         "editorial": "Marvel Comics",
         "tipo": "heroes-marvel",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/MARVEL/ANTMAN.jpg"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/MARVEL%2FANTMAN.jpg?alt=media&token=0c12bc13-3874-4611-8d30-780373e1ecb9"
       },
       {
         "id": "luke-cage",
@@ -152,7 +152,7 @@
         "descripcion": "Creado durante el apogeo del gánero Blaxploitation, Luke Cage es un exconvicto encarcelado por un crimen que no cometiá, que gana los poderes de la fuerza sobrehumana y la piel irrompible despuás de someterse voluntariamente a un procedimiento experimental.",
         "editorial": "Marvel Comics",
         "tipo": "heroes-marvel",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/MARVEL/LUKE CAGE.webp"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/MARVEL%2FLUKE%20CAGE.webp?alt=media&token=3cb62f84-8b89-415a-a3c4-9629a2ca65bb"
       },
       {
         "id": "ms-marvel",
@@ -163,7 +163,7 @@
         "descripcion": "Ms. Marvel (Kamala Khan) es una superheroána pakistaná que aparece en los cámics publicados por Marvel Comics. Creada por los editores Sana Amanat y Stephen Wacker, la escritora G. Willow Wilson y el artista Adrian Alphona, Khan fue el primer personaje musulmán de Marvel en protagonizar su propio cámic.",
         "editorial": "Marvel Comics",
         "tipo": "heroes-marvel",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/MARVEL/MS MARVEL.jpg"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/MARVEL%2FMS%20MARVEL.jpg?alt=media&token=bf23882b-56f9-4886-9d09-538106d08481"
       },
       {
         "id": "la-vision",
@@ -174,7 +174,7 @@
         "descripcion": "Visián fue creado a partir de una copia de la original Antorcha Humana, un hombre sintático creado por Phineas T. Horton. Ultron tomá esta forma de androide y le aáadiá tecnologáa avanzada, tal como programacián robática de su propio diseáo y una ráplica de las ondas cerebrales humanas.",
         "editorial": "Marvel Comics",
         "tipo": "heroes-marvel",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/MARVEL/VISION.jpg"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/MARVEL%2FVISION.jpg?alt=media&token=0c13b6ff-b421-4d04-b152-f627a90ee5c8"
       },
       {
         "id": "ojo-de-halcon",
@@ -185,7 +185,7 @@
         "descripcion": "Ojo de Halcán fue creado por Stan Lee y Don Heck en una ápoca en que la editorial se esforzaba por crear hároes falibles. Hizo su primera aparicián en el mundo de los cámics en Tales of Suspense en septiembre de 1964. Por extraáo que parezca, el personaje era por entonces un villano.",
         "editorial": "Marvel Comics",
         "tipo": "heroes-marvel",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/MARVEL/HAWKEYE.jpg"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/MARVEL%2FHAWKEYE.jpg?alt=media&token=b70cdd1e-614c-4f15-88cd-ac6d6918a754"
       },
       {
         "id": "caballero-luna",
@@ -196,7 +196,7 @@
         "descripcion": "El Caballero Luna (Moon Knight en inglás) es un superhároe ficticio que aparece en los cámics publicados por Marvel Comics. Fue creado por el escritor Doug Moench y por el artista Don Perlin, debutá en el cámic Wolf-Man by Night #32 (agosto de 1975)?y existe en Tierra-616, la tierra principal del Universo Marvel.",
         "editorial": "Marvel Comics",
         "tipo": "heroes-marvel",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/MARVEL/MOONKNIGHT.webp"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/MARVEL%2FMOONKNIGHT.webp?alt=media&token=50bb740c-0fa5-45b4-bb3e-c638fec26574"
       },
       {
         "id": "namor",
@@ -207,7 +207,7 @@
         "descripcion": "Como hijo mutante de un capitán marino humano y una princesa del mático reino submarino de la Atlántida, Namor posee la superfuerza y las habilidades acuáticas de la raza Homo mermanus, asá como la capacidad mutante de vuelo, junto con otros poderes sobrehumanos.",
         "editorial": "Marvel Comics",
         "tipo": "heroes-marvel",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/MARVEL/NAMOR.webp"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/MARVEL%2FNAMOR.webp?alt=media&token=5ddba3cb-c704-4a41-82a5-e5971b68b07d"
       },
       {
         "id": "inhumanos",
@@ -218,7 +218,7 @@
         "descripcion": "Los Inhumanos son liderados por su rey, Black Bolt, y su Familia Real, que consiste en Medusa, Karnak, Gorgon, Tritán, Crystal, Máximus el Loco y el perro Lockjaw. Tanto Crystal como Medusa han sido miembros de los 4 Fantásticos; Crystal tambián ha sido miembro de los Vengadores.",
         "editorial": "Marvel Comics",
         "tipo": "heroes-marvel",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/MARVEL/INHUMANS.jpg"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/MARVEL%2FINHUMANS.jpg?alt=media&token=87a7d719-71cf-4153-9c25-f57b648844d9"
       },
       {
         "id": "batman",
@@ -229,7 +229,7 @@
         "descripcion": "Creacián. Batman es un superhároe de cámic co-creado por el artista Bob Kane y el escritor Bill Finger y publicado por DC Comics. El personaje hizo su primera aparicián en Detective Comics #27 (mayo de 1939). Batman es la identidad secreta de Bruce Wayne, un empresario multimillonario, galán y filántropo.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/DC/BATMAN.webp"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/DC%2FBATMAN.webp?alt=media&token=8a8a9310-cf7f-432b-ad2e-efa50bba2f8b"
       },
       {
         "id": "superman",
@@ -240,7 +240,7 @@
         "descripcion": "Superman (en espaáol: Superhombre) es un superhároe ficticio que apareciá por primera vez en los cámics estadounidenses publicados por DC Comics.???? El personaje fue creado por el escritor estadounidense Jerry Siegel y el artista canadiense Joe Shuster en 1933 cuando ambos se encontraban viviendo en Cleveland, Ohio.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/DC/SUPERMAN.jpg"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/DC%2FSUPERMAN.jpg?alt=media&token=c97ca719-cb07-4bb7-8c9b-12e64ee0de2c"
       },
       {
         "id": "mujer-maravilla",
@@ -251,7 +251,7 @@
         "descripcion": "Es una princesa guerrera de las Amazonas, pueblo ficticio basado en el de las amazonas de la mitologáa griega. En su tierra natal es conocida como la princesa Diana de Temiscira pero fuera de esta utiliza la identidad secreta de Diana Prince.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/DC/Wonder_Woman.webp"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/DC%2FWonder_Woman.webp?alt=media&token=f462d645-46f0-4dd9-8a6c-2bf38c344490"
       },
       {
         "id": "linterna-verde",
@@ -262,7 +262,7 @@
         "descripcion": "En 1940, la linterna llegaráa a manos de Alan Scott, un joven ingeniero. Tras ser el ánico superviviente del colapso de un puente de ferrocarril y hallándose al borde de la muerte, la llama enseáaráa a Scott cámo fabricar un anillo a partir de su metal, para darle increábles poderes como el superhároe Linterna Verde.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/DC/LINTERNAVERDE.jpg"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/DC%2FLINTERNAVERDE.jpg?alt=media&token=7635b465-84bd-412c-a5bb-e1e9b503db91"
       },
       {
         "id": "cosa-pantano",
@@ -273,7 +273,7 @@
         "descripcion": "Historia: Tras sufrir un atentado en su laboratorio, el quámico Alec Holland cayá al pantano envuelto en llamas y recubierto por una fármula Bio-reactiva de su invencián. De ahá resurgiá convertido en una criatura vegetal que todo el mundo llamá La Cosa del Pantano.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/DC/THE MAN THING.jpg"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/DC%2FTHE%20MAN%20THING.jpg?alt=media&token=3897993d-4b1d-4e98-895b-1004529a5d90"
       },
       {
         "id": "constantine",
@@ -284,7 +284,7 @@
         "descripcion": "Conocido como Hellblazer, Constantine es un detective de lo oculto y timador, de clase trabajadora, con residencia en Londres. Fumador compulsivo, notorio por su cinismo sin lámites, se caracteriza por su sarcasmo inexpresivo, asá como por su capacidad para la manipulacián despiadada.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/DC/CONSTANTINE.webp"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/DC%2FCONSTANTINE.webp?alt=media&token=8f72a5f3-e7cb-4cd0-a18c-28d71cf972cc"
       },
       {
         "id": "flash",
@@ -295,7 +295,7 @@
         "descripcion": "Jay Garrick era un estudiante universitario en 1938 que accidentalmente inhalá vapores de agua pesada despuás de tomar un descanso para fumar dentro de su laboratorio donde habáa estado trabajando. ? Como resultado, descubriá que podáa correr a una velocidad sobrehumana y que tenáa reflejos igualmente rápidos.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/DC/FLASH.jpg"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/DC%2FFLASH.jpg?alt=media&token=9a2810e7-e718-4f7f-b065-67e2362e7664"
       },
       {
         "id": "rorschach",
@@ -306,7 +306,7 @@
         "descripcion": "Rorschach fue quizá el hároe más inquietante jamás creado para los cámics. Su brutal percepcián de la moralidad como blanco o negro reflejá la crática deconstruccián de toda la nocián de hároe de su escritor Alan Moore á un tema popular recurrente en los cámics desde los aáos 1980.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/DC/Rorschach.jpg"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/DC%2FRorschach.jpg?alt=media&token=19a7c18d-bbae-4ac2-90d7-b70a0f4f59b0"
       },
       {
         "id": "catwoman",
@@ -317,7 +317,7 @@
         "descripcion": "Fue creada por Bill Finger y Bob Kane, e hizo su primera aparicián en Batman Ná 1 (primavera de 1940). Su nombre real, Selina, deriva de la deidad lunar Selene. Originalmente, Catwoman era una ladrona y rival de Batman con un disfraz de anciana, y era conocida simplemente como la Gata.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/DC/Catwoman.webp"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/DC%2FCatwoman.webp?alt=media&token=77bd7bda-e862-431f-88d6-a5644bcbc5d1"
       },
       {
         "id": "comediante",
@@ -328,7 +328,7 @@
         "descripcion": "Edward Blake / El ComedianteUno de los dos hároes sancionados por el gobierno (junto con el Dr. Manhattan), que permanece activo despuás de que la Ley Keene es aprobada en 1977 para prohibir a los superhároes. Su asesinato, que se produce poco antes de que el primer capátulo iniciara, establece el argumento de Watchmen en movimiento.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/DC/Comediante.jpg"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/DC%2FComediante.jpg?alt=media&token=88755864-1357-40c3-95ed-7cf7a79185fb"
       },
       {
         "id": "flash-wally",
@@ -339,7 +339,7 @@
         "descripcion": "Wally West, el personaje era un niáo pelirrojo de ojos verdes, quien era el sobrino de la novia de Barry Allen, Iris West. Durante una visita a la central de laboratorio de la policáa, el accidente que le dio sus poderes a Barry, se repitiá pero está vez dándoselos a Wally West.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/DC/Flash Wally West.jpg"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/DC%2FFlash%20Wally%20West.jpg?alt=media&token=a5052f7e-5862-4ac5-8788-ca2ffdd5e98d"
       },
       {
         "id": "animal-man",
@@ -350,7 +350,7 @@
         "descripcion": "Animal Man (Bernhard \"Buddy\" Baker) es un personaje ficticio de DC Comics. Su primera aparicián fue en Strange Adventures Ná180 (septiembre de 1965) y fue creado por Dave Wood y Carmine Infantino.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/DC/Animal Man.webp"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/DC%2FAnimal%20Man.webp?alt=media&token=b8fb2ee0-30da-4f32-82fa-a3ebb2e2baf2"
       },
       {
         "id": "nightwing",
@@ -361,7 +361,7 @@
         "descripcion": "El Nightwing original en DC Comics fue una identidad asumida por el superhároe alienágena Superman cuando se quedá varado en la ciudad kryptoniana de Kandor con su amigo Jimmy Olsen. Inspirándose en Batman y Robin, los dos protegen a Kandor como los superhároes Nightwing y Flamebird.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/DC/Nightwing.webp"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/DC%2FNightwing.webp?alt=media&token=7bee02b8-ab89-40cf-91e4-42785c00e889"
       },
       {
         "id": "supergirl",
@@ -372,7 +372,7 @@
         "descripcion": "Supergirl (en espaáol significa Superchica; en las historietas publicadas por la Editorial Novaro, se llamaba Superniáa) es una superheroána nativa del planeta Krypton, donde era conocida como Kara Zor-El, es uno de los pocos supervivientes de la destruccián del mismo, junto a su primo Kal-EL.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/DC/Supergirl.jpg"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/DC%2FSupergirl.jpg?alt=media&token=57c88c65-5753-4127-84ec-d756604473fe"
       },
       {
         "id": "aquaman",
@@ -383,7 +383,7 @@
         "descripcion": "Aquaman es hijo del farero Thomas Curry y la reina de Atlántida, Atlanna. Al menos, asá estaba establecido en la historias de la edad de plata. A partir de la serie Crisis en Tierras Infinitas, su origen cambiá a completamente atlante. En esta nueva realidad, su padre es Atlan, un misterioso mago de Atlántida.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/DC/Aquaman.webp"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/DC%2FAquaman.webp?alt=media&token=5e43c46c-95b9-4ffc-8ac9-9b2d5982ae6e"
       },
       {
         "id": "green-arrow",
@@ -394,7 +394,7 @@
         "descripcion": "Historia. Flecha Verde es un superhároe justiciero que lucha contra el crimen con las artes marciales, tiro con arco y tecnologáa. En su identidad secreta es Oliver Queen, que vive en Cuidad Estrella como un rico playboy multimillonario y empresario convertido en polático liberal franco.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/DC/Green Arrow.jpg"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/DC%2FGreen%20Arrow.jpg?alt=media&token=f82cca41-9d5e-4f69-b6f7-6c3b7aa4d067"
       },
       {
         "id": "batwoman",
@@ -405,7 +405,7 @@
         "descripcion": "La Batwoman moderna está escrita como descendiente de judáos y como lesbiana. Despuás de los eventos de DC Rebirth, se establece que Kate Kane es la prima del alter ego de Batman, Bruce Wayne y, por lo tanto, sobrina de su madre Martha Wayne.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/DC/Batwoman.jpg"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/DC%2FBatwoman.jpg?alt=media&token=00250f33-8b96-4969-8b17-7887cecd6978"
       },
       {
         "id": "kyle-rayne",
@@ -416,7 +416,7 @@
         "descripcion": "Kyle Rayner es un superhároe ficticio que aparecen en los cámics americanos publicados por DC Comics. El personaje se representa como asociado con el Green Lantern Corps, una fuerza policial extraterrestre de la que ha sido miembro. Cosplayer interpretando al personaje.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/DC/Kyle Rayner.webp"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/DC%2FKyle%20Rayner.webp?alt=media&token=74d9b7f2-0949-4e1c-93d0-022b0ebbeceb"
       },
       {
         "id": "batgirl",
@@ -427,7 +427,7 @@
         "descripcion": "La Batgirl original fue creada por el guionista Sheldon Moldoff y apareciá en 1961, durante la Silver Age. Ella era el alter-ego de Betty Kane, sobrina de Kathy Kane, alias Batwoman o Batichica (en Hispanoamárica). Batwoman y Batgirl fueron creadas como contrapuntos románticos de Batman y Robin.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/DC/Batgirl.jpg"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/DC%2FBatgirl.jpg?alt=media&token=b0079731-1ce9-4fae-beff-219a999ee417"
       },
       {
         "id": "detective-marciano",
@@ -438,7 +438,7 @@
         "descripcion": "El Detective Marciano (J'onn J'onzz) es un superhároe de la compaááa DC Comics. Apareciá por primera vez en Dectetive Comics Ná 225 (noviembre de 1955), en la historia corta \"El extraáo experimento del Dr. Erdel\" escrita por Joseph Samachson e ilustrada por Joe Certa.",
         "editorial": "DC  Comics",
         "tipo": "heroes-dc",
-        "imagen": "gs://api-superheroes-f0ec1.appspot.com/DC/Detective Marciano.jpg"
+        "imagen": "https://firebasestorage.googleapis.com/v0/b/api-superheroes-f0ec1.appspot.com/o/DC%2FDetective%20Marciano.jpg?alt=media&token=a03166e8-17ce-4f8a-bc9e-c7d4846caf49"
       }
     ]
   }
